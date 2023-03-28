@@ -1,0 +1,20 @@
+Alexander;Albon;1996-03-23;Thai;williams;23;0
+Fernando;Alonso;1981-07-29;Spanish;aston_martin;14;0
+Valtteri;Bottas;1989-08-28;Finnish;alfa;77;0
+Nyck;de Vries;1995-02-06;Dutch;alphatauri;45;0
+Pierre;Gasly;1996-02-07;French;alpine;10;0
+Lewis;Hamilton;1985-01-07;British;mercedes;44;0
+Nico;Hülkenberg;1987-08-19;German;haas;27;0
+Charles;Leclerc;1997-10-16;Monegasque;ferrari;16;0
+Kevin;Magnussen;1992-10-05;Danish;haas;20;0
+Lando;Norris;1999-11-13;British;mclaren;4;0
+Esteban;Ocon;1996-09-17;French;alpine;31;0
+Sergio;Pérez;1990-01-26;Mexican;red_bull;11;0
+Oscar;Piastri;2001-04-06;Australian;mclaren;81;0
+George;Russell;1998-02-15;British;mercedes;63;0
+Carlos;Sainz;1994-09-01;Spanish;ferrari;55;0
+Logan;Sargeant;2000-12-31;American;williams;2;0
+Lance;Stroll;1998-10-29;Canadian;aston_martin;18;0
+Yuki;Tsunoda;2000-05-11;Japanese;alphatauri;22;0
+Max;Verstappen;1997-09-30;Dutch;red_bull;33;0
+Guanyu;Zhou;1999-05-30;Chinese;alfa;24;0

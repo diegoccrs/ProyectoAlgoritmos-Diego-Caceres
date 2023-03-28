@@ -1,0 +1,10 @@
+Alfa Romeo;alfa;Swiss;['Valtteri Bottas', 'Guanyu Zhou'];0
+AlphaTauri;alphatauri;Italian;['Nyck de Vries', 'Yuki Tsunoda'];0
+Alpine F1 Team;alpine;French;['Pierre Gasly', 'Esteban Ocon'];0
+Aston Martin;aston_martin;British;['Fernando Alonso', 'Lance Stroll'];0
+Ferrari;ferrari;Italian;['Charles Leclerc', 'Carlos Sainz'];0
+Haas F1 Team;haas;American;['Nico Hülkenberg', 'Kevin Magnussen'];0
+McLaren;mclaren;British;['Lando Norris', 'Oscar Piastri'];0
+Mercedes;mercedes;German;['Lewis Hamilton', 'George Russell'];0
+Red Bull;red_bull;Austrian;['Sergio Pérez', 'Max Verstappen'];0
+Williams;williams;British;['Alexander Albon', 'Logan Sargeant'];0
