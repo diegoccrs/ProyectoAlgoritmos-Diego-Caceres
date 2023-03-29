@@ -115,7 +115,10 @@ def main():
 
 main()
 
-# obtener los equipos, estadios y restaurantes partidos de la api para reiniciar los archivos
+# Para resetear los txt se eliminan los txt ya generados, descomentas estas 3 variables de aca abajo y se comentas la linea 116.
+# Corres el programa y se van a generar los txt
+# Acto seguido, comentar de nuevo las 3 variables, descomentar la linea 116 y listo 
+
 #pilotos = GestionCarrerasEquipos.obtener_pilotos_api()
 #constructores = GestionCarrerasEquipos.obtener_constructores_api()
 #carreras = GestionCarrerasEquipos.obtener_carreras_api()
