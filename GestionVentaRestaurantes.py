@@ -12,7 +12,7 @@ def es_numero_perfecto(numero):
     :return: True si es perfecto, False si no lo es
     '''
     suma = 0
-    for i in range(1, (numero // 2) + 1):
+    for i in range(1, numero):
         if numero % i == 0:
             suma += i
     return suma == numero

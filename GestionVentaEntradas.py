@@ -142,9 +142,6 @@ def es_ondulado(cedula):
 
     :return: True si el número es ondulado, False si no lo es
     '''
-    # si el número es menor estricto que 100, retorna True
-    if int(cedula) < 100:
-        return True
 
     # convierte el número en una lista de dígitos y verifica si hay exactamente dos dígitos distintos en el número. Si no, retorna False
     digitos = [int(d) for d in str(cedula)]
@@ -153,7 +150,7 @@ def es_ondulado(cedula):
         return False
 
     # recorre la lista de dígitos y verifica si los dígitos se alternan correctamente. Si no, retorna False
-    for i in range(len(digitos) - 2):
+    for i in range(len(digitos)):
         if digitos[i] == digitos[i + 2]:
             continue
         else:
