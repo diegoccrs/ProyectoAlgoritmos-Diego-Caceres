@@ -150,7 +150,7 @@ def es_ondulado(cedula):
         return False
 
     # recorre la lista de dígitos y verifica si los dígitos se alternan correctamente. Si no, retorna False
-    for i in range(len(digitos)):
+    for i in range(len(digitos)-2):
         if digitos[i] == digitos[i + 2]:
             continue
         else:
